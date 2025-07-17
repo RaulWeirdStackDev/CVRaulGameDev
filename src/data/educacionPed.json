@@ -1,0 +1,47 @@
+[
+  {
+    "id":"p001",
+    "tipo":"Course",
+    "nombre":"Playing and Learning Financial Education",
+    "entidad":"Fundación Entrepreneur, Chile",
+    "fecha":"(2020-2021)",
+    "desc":"Twenty-nine-hour-long course on personal finances education using the online bilingual board game Financity.",
+    "skills":"Personal Finances, Financial Education, Gamification, Board Games, Online Games, Multiplayer Games"
+  },
+  {
+    "id": "p002",
+    "tipo": "Master's Degree",
+    "nombre": "Teaching English as a Foreign Language",
+    "entidad": "Universidad Andrés Bello, Chile",
+    "fecha": "(2018-2020)",
+    "desc": "Professional master's degree focused on acquiring up-to-date theoretical foundations in areas such as second language acquisition, lesson planning, assessment, classroom management, and pedagogical material development, as well as training in academic research.",
+    "skills": "Academic Literacy, Qualitative Research Methods, Presentation Skills, Group Management"
+  },
+  {
+    "id": "p002",
+    "tipo": "Language Certification",
+    "nombre": "C2: Proficiency/CPE",
+    "entidad": "University of Cambridge, England",
+    "fecha": "(2018)",
+    "desc": "Certification of English proficiency at C2 level, the highest in the Common European Framework of Reference (CEFR).",
+    "skills": "Advanced level of English, Academic Writing, Reading Comprehension, Listening Comprehension, Speaking Skills"
+  },
+  {
+    "id":"p003",
+    "tipo":"Course",
+    "nombre":"Universal Design For Learning",
+    "entidad":"Fundación Entrepreneur, Chile",
+    "fecha":"(2018)",
+    "desc":"Asynchronous course on universal design for learning, emphasizing the importance of accessibility and inclusivity in education.",
+    "skills":"Accessibility, Inclusion, Universal Design"
+  },
+  {
+    "id": "p004",
+    "tipo": "Professional Degree",
+    "nombre": "Bachelor of Education and English Teacher",
+    "entidad": "Pontificia Universidad Católica de Valparaíso, Chile",
+    "fecha": "(2012-2016)",
+    "desc": "Nine-semester professional program, including training in English language proficiency, linguistics, literature, and methodology in areas such as assessment and lesson planning.",
+    "skills": "Teaching Methods, Assessment, Literature, Linguistics, Discourse Analysis"
+  }
+]

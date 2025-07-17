@@ -1,0 +1,44 @@
+[
+  {
+    "id": "e001",
+    "cargo": "FrontEnd Web Developer",
+    "empleador": "Independent Freelancer",
+    "fecha": "(2024-Present)",
+    "desc": "Development of responsive frontend web pages and applications using HTML5, CSS3, DOM manipulation with JavaScript, API integration, and the use of ReactJS to create more maintainable and component-based code."
+  },
+  {
+    "id": "e002",
+    "cargo": "Director, Founder, and Teacher",
+    "empleador": "Radical English (Online, Chile)",
+    "fecha": "(2019-2024)",
+    "desc": "Creation and delivery of communicative English courses and international exam preparation programs, team and administrative management, task delegation, and entrepreneurship training."
+  },
+  {
+    "id": "e003",
+    "cargo": "Cambridge Exam Workshop Teacher",
+    "empleador": "Scuola Italiana Arturo Dell'Oro (Valparaíso, Chile)",
+    "fecha": "(2018-2019)",
+    "desc": "Planning and execution of extracurricular workshops for 8th-grade and 9th-grade students preparing for the Cambridge B1: Preliminary exam."
+  },
+  {
+    "id": "e004",
+    "cargo": "English Teacher",
+    "empleador": "Instituto Chileno Británico de Cultura (Viña del Mar, Chile)",
+    "fecha": "(2017-2018)",
+    "desc": "Planning and implementation of courses and workshops for young learners and adults, covering both general English and international exam preparation."
+  },
+  {
+    "id": "e005",
+    "cargo": "English Teacher",
+    "empleador": "Escuela Especial de Adultos E-508 (Valparaíso, Chile)",
+    "fecha": "(2017)",
+    "desc": "Teacher in the adult education program within the confinement context of the Valparaíso Penitentiary Complex."
+  },
+  {
+    "id": "e006",
+    "cargo": "English Teacher",
+    "empleador": "BestWork English Institute (Viña del Mar, Chile)",
+    "fecha": "(2016)",
+    "desc": "Responsible for teaching courses at various proficiency levels and conducting diagnostic assessments to determine students' prior knowledge."
+  }
+]

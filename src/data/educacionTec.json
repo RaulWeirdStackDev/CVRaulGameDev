@@ -1,0 +1,77 @@
+[
+  {
+    "id": "t001",
+    "tipo": "Master",
+    "nombre": "Game Development with Unity, C# and Python",
+    "entidad": "Casta Tutors, Latin America",
+    "fecha": "(2025)",
+    "desc": "An asynchronous master program covering game development using Unity, C# and Python programming languages.",
+    "skills": "Unity, C#, Python, Programming Logics, Game Development"
+  },
+ {
+    "id": "t002",
+    "tipo": "Diploma",
+    "nombre": "Agile Project Management",
+    "entidad": "SENCE and Fundación Telefónica Movistar, Chile",
+    "fecha": "(2025)",
+    "desc": "An asynchronous diploma program covering agile methodologies such as Scrum and Kanban, project management processes, and collaborative teamwork in the tech industry.",
+    "skills": "Agile, Scrum, Kanban, Project Management, Teamwork"
+  },
+  {
+    "id": "t003",
+    "tipo": "Bootcamp",
+    "nombre": "Fullstack JavaScript Development",
+    "entidad": "Desafío Latam, Chile",
+    "fecha": "(2024-2025 )",
+    "desc": "A one-year hands-on course covering Frontend Development with technologies such as HTML5, CSS3, JavaScript ES6, and React. Additionally, it includes Backend Development using NodeJS and database management with SQL.",
+    "skills": "HTML5, CSS3, JavaScript ES6, React, NodeJS, Express, PostgreSQL"
+  },
+  {
+    "id": "t004",
+    "tipo": "Associate's Degree",
+    "nombre": "Programming Analyst",
+    "entidad": "CFT Cenco, Chile",
+    "fecha": "(2024-2025)",
+    "desc": "A professional technical training program covering areas such as programming paradigms, databases, project management, and other key topics in the tech industry.",
+    "skills": "Programming Paradigms, Data types, Databases, Project Management"
+  },
+  {
+    "id":"t005",
+    "tipo":"268 hours online program",
+    "nombre":"FrontEnd Development with React",
+    "entidad":"Desafío Latam, Chile",
+    "fecha":"(2025)",
+    "desc":"A hands-on course on front-end development using html, css, javascript, and React, including topics like responsive design, form validation, DOM manipulation, API integration, and best practices for React components, state management, and routing.",
+    "skills":"HTML, CSS, Bootstrap, GitHub, JavaScript, React, DOM Manipulation, API Integration, Responsive Design, Form Validation, State Management, Routing"
+
+  },
+
+  {
+    "id":"t006",
+    "tipo":"40 hour online synchronous and asynchronous course",
+    "nombre":"SQL",
+    "entidad":"Desafío Latam, Chile",
+    "fecha":"(2025)",
+    "desc":"A practical course on PostgreSQL, a popular open-source relational database management system, applied to web development. It covers topics such as creating tables, inserting and querying data, and optimizing database performance.",
+    "skills":"PostgreSQL, Database Management, Data Manipulation, Database Optimization"
+
+  },
+  {
+    "id": "t007",
+    "tipo": "Diploma",
+    "nombre": "UX/UI Applied to Web Development",
+    "entidad": "SENCE and Fundación Telefónica Movistar, Chile",
+    "fecha": "(2024)",
+    "desc": "A mostly asynchronous diploma program covering user experience principles, user interface development using frontend technologies, and cybersecurity fundamentals.",
+    "skills": "User Experience, User Interface, Cybersecurity"
+  },
+  {
+    "id": "t008",
+    "tipo": "Live Course",
+    "nombre": "Adopting the Agile Mindset: Agile Context",
+    "entidad": "Academia Ágil, Mexico",
+    "fecha": "(2024)",
+    "desc": "An introductory course on agile methodologies for project management in the tech industry.",
+    "skills": "Agile Methodologies, Project Management"
+  }
+]

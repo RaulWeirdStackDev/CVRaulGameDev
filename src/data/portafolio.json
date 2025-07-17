@@ -1,0 +1,41 @@
+[
+  {
+    "id": "po1",
+    "video": "/fightR.mp4",
+    "title": "2D Fighting Game  (2025)",
+    "desc": "2D Fighting Game created with Unity and C#, using custom sprites based on my own martial arts experience."
+  },
+  {
+    "id": "po4",
+    "video": "/Whack.mp4",
+    "title": "Whack-A-Raúl, Windows Forms Game with C# (2025)",
+    "desc": "Whack-A-Raúl game created with Visual Studio and C#, using custom sprites. This is an adapted version of a project from my Game Development Master program."
+  },
+  {
+    "id": "po3",
+    "video": "/OoE.mp4",
+    "title": "Out of Eden, 2D Web Video Game (2025)",
+    "desc": "Desktop view of the video game Out of Eden, developed with the Phaser 3 framework for creating 2D games with JavaScript.",
+    "link": "https://out-of-eden.vercel.app/"
+  },
+  {
+    "id": "po2",
+    "video": "/NinjaFrog.mp4",
+    "title": "Ninja Frog and Space Guy, 2D Platformer Game with Unity (2025)",
+    "desc": "Ninja Frog and Space Guy game created with Unity and C#. This is the on-going final project from my Game Development Master program."
+  },
+  {
+    "id": "po5",
+    "video": "/Rio.mp4",
+    "title": "Cross The River, Logic Web Game (2024)",
+    "desc": "Web game created with JavaScript, HTML, and CSS, based on a traditional logic riddle.",
+    "link": "https://raulweirdstackdev.github.io/JuegoCabra/"
+  },
+  {
+    "id": "po6",
+    "video": "/Arkanoid.mp4",
+    "title": "Arkanoid Clone, First Attempt with Unity (2024)",
+    "desc": "This game was my first attempt at creating a game using Unity and C#. It was a simple game with a ball that bounced off the paddle. This game was later on exported  with WebGL and is now available on GitHub.",
+    "link": "https://raulweirdstackdev.github.io/Arkanoid-Beta-1/"
+  }
+]
