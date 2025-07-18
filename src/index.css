@@ -24,6 +24,11 @@ body {
       max-width: 90vw;
     }
 
+    .descripción img {
+    width: 70vw;
+    height: auto
+    }
+
 
  
   }
